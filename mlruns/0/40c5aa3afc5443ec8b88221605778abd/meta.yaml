@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Codes/mlflow-tutorial/mlruns/0/40c5aa3afc5443ec8b88221605778abd/artifacts
+end_time: 1711798922410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c5aa3afc5443ec8b88221605778abd
+run_name: skittish-newt-283
+run_uuid: 40c5aa3afc5443ec8b88221605778abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711798920118
+status: 3
+tags: []
+user_id: yatin

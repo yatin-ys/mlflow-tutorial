@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Codes/mlflow-tutorial/mlruns/0/2859fc6dbd6b4097b8eacfa10cda0542/artifacts
+end_time: 1711798857002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2859fc6dbd6b4097b8eacfa10cda0542
+run_name: monumental-shad-116
+run_uuid: 2859fc6dbd6b4097b8eacfa10cda0542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711798854574
+status: 3
+tags: []
+user_id: yatin

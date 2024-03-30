@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Codes/mlflow-tutorial/mlruns/0/92c3a41ca3624923b0f18c4076bba98f/artifacts
+end_time: 1711799469038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92c3a41ca3624923b0f18c4076bba98f
+run_name: receptive-grouse-711
+run_uuid: 92c3a41ca3624923b0f18c4076bba98f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711799466718
+status: 3
+tags: []
+user_id: yatin
